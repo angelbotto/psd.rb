@@ -188,3 +188,7 @@ There are a few features that are currently missing from PSD.rb.
 * Individual layer image exporting
 * More image modes + depths for image exporting
 * A few layer info blocks
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/angelbotto/psd.rb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
